@@ -1,8 +1,8 @@
 <template>
   <v-app v-if="show">
     <v-main>
-      <v-container>
-        <Nuxt class="z-index-1"/>
+      <v-container class="w-100">
+        <Nuxt class="w-100 z-index-1"/>
       </v-container>
     </v-main>
   </v-app>
